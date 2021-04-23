@@ -1,9 +1,11 @@
 hi 
 this
+<<<<<<< HEAD
 is 
 devops
-please
 all
-know
+=======
+is devops2
+all
 
 >>>>>>> 6d9a3e2a995feaec2650131006d433deed192777
